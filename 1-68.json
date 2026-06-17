@@ -6,116 +6,105 @@
   {
    "v": 1,
    "file": "1-68-1.opus",
-   "dur": 14.95,
-   "hash": "38e547baacdda49a"
+   "hash": "38e547baacdda49a",
+   "dur": 14.95
   },
   {
    "v": 2,
    "file": "1-68-2.opus",
-   "dur": 12.66,
-   "hash": "e331280e98a1db75"
+   "hash": "e331280e98a1db75",
+   "dur": 12.66
   },
   {
    "v": 3,
    "file": "1-68-3.opus",
-   "dur": 23.41,
-   "hash": "c6fb3f1443d376c0"
-  },
-  {
-   "v": 4,
-   "file": "1-68-4.opus",
-   "dur": 23.23,
-   "hash": "c6fb3f1443d376c0"
-  },
-  {
-   "v": 5,
-   "file": "1-68-5.opus",
-   "dur": 25.79,
-   "hash": "c6fb3f1443d376c0"
+   "hash": "c6fb3f1443d376c0",
+   "to": 5,
+   "dur": 23.41
   },
   {
    "v": 6,
    "file": "1-68-6.opus",
-   "dur": 10.86,
-   "hash": "ee73ee2214fef3a0"
+   "hash": "ee73ee2214fef3a0",
+   "dur": 10.86
   },
   {
    "v": 7,
    "file": "1-68-7.opus",
-   "dur": 24.29,
-   "hash": "5c6905c2f0de25d1"
+   "hash": "5c6905c2f0de25d1",
+   "dur": 24.29
   },
   {
    "v": 8,
    "file": "1-68-8.opus",
-   "dur": 14.12,
-   "hash": "b6fa1592c7213045"
+   "hash": "b6fa1592c7213045",
+   "dur": 14.12
   },
   {
    "v": 9,
    "file": "1-68-9.opus",
-   "dur": 16.16,
-   "hash": "802fdcd6865e0487"
+   "hash": "802fdcd6865e0487",
+   "dur": 16.16
   },
   {
    "v": 10,
    "file": "1-68-10.opus",
-   "dur": 16.98,
-   "hash": "183fa45e294c0932"
+   "hash": "183fa45e294c0932",
+   "dur": 16.98
   },
   {
    "v": 11,
    "file": "1-68-11.opus",
-   "dur": 14.44,
-   "hash": "1ebbcf73855e47eb"
+   "hash": "1ebbcf73855e47eb",
+   "dur": 14.44
   },
   {
    "v": 12,
    "file": "1-68-12.opus",
-   "dur": 13.57,
-   "hash": "05c7e3f15eac10d1"
+   "hash": "05c7e3f15eac10d1",
+   "dur": 13.57
   },
   {
    "v": 13,
    "file": "1-68-13.opus",
-   "dur": 15.62,
-   "hash": "e72119462a66412c"
+   "hash": "e72119462a66412c",
+   "dur": 15.62
   },
   {
    "v": 14,
    "file": "1-68-14.opus",
-   "dur": 11.91,
-   "hash": "af743750a5bbeb5c"
+   "hash": "af743750a5bbeb5c",
+   "dur": 11.91
   },
   {
    "v": 15,
    "file": "1-68-15.opus",
-   "dur": 13.32,
-   "hash": "5779d71ed1e016ee"
+   "hash": "5779d71ed1e016ee",
+   "dur": 13.32
   },
   {
    "v": 16,
    "file": "1-68-16.opus",
-   "dur": 14.93,
-   "hash": "225c9fc2dfb66d33"
+   "hash": "225c9fc2dfb66d33",
+   "dur": 14.93
   },
   {
    "v": 17,
    "file": "1-68-17.opus",
-   "dur": 11.39,
-   "hash": "b15ec0c281848cc5"
+   "hash": "b15ec0c281848cc5",
+   "dur": 11.39
   },
   {
    "v": 18,
    "file": "1-68-18.opus",
-   "dur": 15.93,
-   "hash": "e3b442c034a7cee9"
+   "hash": "e3b442c034a7cee9",
+   "dur": 15.93
   },
   {
    "v": 19,
    "file": "1-68-19.opus",
-   "dur": 16.4,
-   "hash": "8b10e8449ee1b80a"
+   "hash": "8b10e8449ee1b80a",
+   "dur": 16.4
   }
  ]
 }
