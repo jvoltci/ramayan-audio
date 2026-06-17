@@ -1,0 +1,153 @@
+{
+ "kanda": 1,
+ "sarga": 6,
+ "voice": "divya",
+ "verses": [
+  {
+   "v": 1,
+   "file": "1-6-1.opus",
+   "hash": "8f0a0aaf9f5af52e",
+   "to": 4,
+   "dur": 58.64
+  },
+  {
+   "v": 5,
+   "file": "1-6-5.opus",
+   "hash": "b15c12cf6e0a1d46",
+   "dur": 14.58
+  },
+  {
+   "v": 6,
+   "file": "1-6-6.opus",
+   "hash": "fd5f33ca65e975de",
+   "dur": 12.99
+  },
+  {
+   "v": 7,
+   "file": "1-6-7.opus",
+   "hash": "319cd246675bf22b",
+   "dur": 20.05
+  },
+  {
+   "v": 8,
+   "file": "1-6-8.opus",
+   "hash": "031772038c66e914",
+   "dur": 8.3
+  },
+  {
+   "v": 9,
+   "file": "1-6-9.opus",
+   "hash": "25e9d809ef6703d0",
+   "dur": 10.42
+  },
+  {
+   "v": 10,
+   "file": "1-6-10.opus",
+   "hash": "b15871ae0831f72d",
+   "dur": 23.77
+  },
+  {
+   "v": 11,
+   "file": "1-6-11.opus",
+   "hash": "051a2cc30204cb7f",
+   "dur": 23.43
+  },
+  {
+   "v": 12,
+   "file": "1-6-12.opus",
+   "hash": "7adeed71c8a969ff",
+   "dur": 11.19
+  },
+  {
+   "v": 13,
+   "file": "1-6-13.opus",
+   "hash": "b2bc1be9b592a08f",
+   "dur": 12.68
+  },
+  {
+   "v": 14,
+   "file": "1-6-14.opus",
+   "hash": "5ed98b04e87068c3",
+   "dur": 13.93
+  },
+  {
+   "v": 15,
+   "file": "1-6-15.opus",
+   "hash": "161696db98403966",
+   "dur": 11.62
+  },
+  {
+   "v": 16,
+   "file": "1-6-16.opus",
+   "hash": "aed6b87f6e481fe7",
+   "dur": 10.94
+  },
+  {
+   "v": 17,
+   "file": "1-6-17.opus",
+   "hash": "2611e2c0bcd53dd0",
+   "dur": 11.36
+  },
+  {
+   "v": 18,
+   "file": "1-6-18.opus",
+   "hash": "74b6cb8cb7659391",
+   "dur": 15.02
+  },
+  {
+   "v": 19,
+   "file": "1-6-19.opus",
+   "hash": "4ed0a790c96206d6",
+   "dur": 13.02
+  },
+  {
+   "v": 20,
+   "file": "1-6-20.opus",
+   "hash": "2848be08c9c5047a",
+   "dur": 11.24
+  },
+  {
+   "v": 21,
+   "file": "1-6-21.opus",
+   "hash": "3896d1304b80b1f3",
+   "dur": 23.21
+  },
+  {
+   "v": 22,
+   "file": "1-6-22.opus",
+   "hash": "aea94b4ded7dbf79",
+   "dur": 18.45
+  },
+  {
+   "v": 23,
+   "file": "1-6-23.opus",
+   "hash": "cbff876a5afa779b",
+   "dur": 11.08
+  },
+  {
+   "v": 24,
+   "file": "1-6-24.opus",
+   "hash": "c6dce2157843a542",
+   "dur": 13.54
+  },
+  {
+   "v": 25,
+   "file": "1-6-25.opus",
+   "hash": "8794f8deb49a7469",
+   "to": 26,
+   "dur": 66.04
+  },
+  {
+   "v": 27,
+   "file": "1-6-27.opus",
+   "hash": "12d8d57a3c4d2893",
+   "dur": 14.2
+  },
+  {
+   "v": 28,
+   "file": "1-6-28.opus",
+   "hash": "b7c7eae5017334b9",
+   "dur": 20.25
+  }
+ ]
+}
