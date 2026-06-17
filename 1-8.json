@@ -1,0 +1,113 @@
+{
+ "kanda": 1,
+ "sarga": 8,
+ "voice": "divya",
+ "verses": [
+  {
+   "v": 1,
+   "file": "1-8-1.opus",
+   "hash": "4548a00baa8a6014",
+   "dur": 14.73
+  },
+  {
+   "v": 2,
+   "file": "1-8-2.opus",
+   "hash": "0f598b77e71687ef",
+   "dur": 12.42
+  },
+  {
+   "v": 3,
+   "file": "1-8-3.opus",
+   "hash": "b1ed7526eddd7101",
+   "to": 4,
+   "dur": 25.48
+  },
+  {
+   "v": 5,
+   "file": "1-8-5.opus",
+   "hash": "c0da96052ca5b6f4",
+   "dur": 11.22
+  },
+  {
+   "v": 6,
+   "file": "1-8-6.opus",
+   "hash": "671427570a8edc3a",
+   "to": 7,
+   "dur": 16.76
+  },
+  {
+   "v": 8,
+   "file": "1-8-8.opus",
+   "hash": "7607fff75b844c7d",
+   "dur": 18.34
+  },
+  {
+   "v": 9,
+   "file": "1-8-9.opus",
+   "hash": "a144c64a19482857",
+   "dur": 13.62
+  },
+  {
+   "v": 10,
+   "file": "1-8-10.opus",
+   "hash": "cd7d0e0ae6cc7fc9",
+   "dur": 10.56
+  },
+  {
+   "v": 11,
+   "file": "1-8-11.opus",
+   "hash": "2a8c211e31c8e933",
+   "to": 12,
+   "dur": 32.52
+  },
+  {
+   "v": 13,
+   "file": "1-8-13.opus",
+   "hash": "31fcd6bd7a5a2358",
+   "to": 17,
+   "dur": 61.74
+  },
+  {
+   "v": 18,
+   "file": "1-8-18.opus",
+   "hash": "7bfbfbc6dd8f1db5",
+   "dur": 23.45
+  },
+  {
+   "v": 19,
+   "file": "1-8-19.opus",
+   "hash": "5fbddeb0383a2fe4",
+   "dur": 13.51
+  },
+  {
+   "v": 20,
+   "file": "1-8-20.opus",
+   "hash": "cb0a9935f19efcc0",
+   "dur": 13.79
+  },
+  {
+   "v": 21,
+   "file": "1-8-21.opus",
+   "hash": "950e606d97d57a09",
+   "dur": 17.71
+  },
+  {
+   "v": 22,
+   "file": "1-8-22.opus",
+   "hash": "3a7bbbd914fd5d70",
+   "dur": 10.62
+  },
+  {
+   "v": 23,
+   "file": "1-8-23.opus",
+   "hash": "156b60639d6d87e6",
+   "dur": 18.53
+  },
+  {
+   "v": 24,
+   "file": "1-8-24.opus",
+   "hash": "e8fd36984870fa55",
+   "dur": 13.59
+  }
+ ]
+}
