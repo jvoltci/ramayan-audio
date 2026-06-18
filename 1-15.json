@@ -1,0 +1,180 @@
+{
+ "kanda": 1,
+ "sarga": 15,
+ "voice": "divya",
+ "verses": [
+  {
+   "v": 1,
+   "file": "1-15-1.opus",
+   "hash": "4feaf95a45f0b89d",
+   "dur": 17.61
+  },
+  {
+   "v": 2,
+   "file": "1-15-2.opus",
+   "hash": "e1f453e2a4a09e51",
+   "dur": 20.01
+  },
+  {
+   "v": 3,
+   "file": "1-15-3.opus",
+   "hash": "989e3f244cdfc59a",
+   "dur": 12.65
+  },
+  {
+   "v": 4,
+   "file": "1-15-4.opus",
+   "hash": "c5c5d247eb0e4ba7",
+   "dur": 10.61
+  },
+  {
+   "v": 5,
+   "file": "1-15-5.opus",
+   "hash": "386c5e0f6337d50b",
+   "dur": 11.05
+  },
+  {
+   "v": 6,
+   "file": "1-15-6.opus",
+   "hash": "2e90c4ba86a55c93",
+   "dur": 22.44
+  },
+  {
+   "v": 7,
+   "file": "1-15-7.opus",
+   "hash": "95ac4919a15a0c31",
+   "dur": 19.58
+  },
+  {
+   "v": 8,
+   "file": "1-15-8.opus",
+   "hash": "2d9b8b513e7733d1",
+   "dur": 22.64
+  },
+  {
+   "v": 9,
+   "file": "1-15-9.opus",
+   "hash": "89754af7ad4d7e22",
+   "dur": 20.28
+  },
+  {
+   "v": 10,
+   "file": "1-15-10.opus",
+   "hash": "62dd89670976a525",
+   "dur": 26.88
+  },
+  {
+   "v": 11,
+   "file": "1-15-11.opus",
+   "hash": "21ff556ef3aa24f3",
+   "dur": 20.37
+  },
+  {
+   "v": 12,
+   "file": "1-15-12.opus",
+   "hash": "ff306d56bd18745b",
+   "to": 13,
+   "dur": 33.61
+  },
+  {
+   "v": 14,
+   "file": "1-15-14.opus",
+   "hash": "db64890efcaf9ac4",
+   "dur": 27.62
+  },
+  {
+   "v": 15,
+   "file": "1-15-15.opus",
+   "hash": "ce0ef82cfcecfdbc",
+   "dur": 8.49
+  },
+  {
+   "v": 16,
+   "file": "1-15-16.opus",
+   "hash": "47ce30688aa182ee",
+   "to": 17,
+   "dur": 35.21
+  },
+  {
+   "v": 18,
+   "file": "1-15-18.opus",
+   "hash": "67055ee0a75a2066",
+   "dur": 20.7
+  },
+  {
+   "v": 19,
+   "file": "1-15-19.opus",
+   "hash": "112e2f1eae0cfe04",
+   "to": 21,
+   "dur": 44.16
+  },
+  {
+   "v": 22,
+   "file": "1-15-22.opus",
+   "hash": "3e6d6cad9838da30",
+   "dur": 15.28
+  },
+  {
+   "v": 23,
+   "file": "1-15-23.opus",
+   "hash": "beaecb53e037ec6d",
+   "dur": 16.44
+  },
+  {
+   "v": 24,
+   "file": "1-15-24.opus",
+   "hash": "6a94f5ca0dd1f01a",
+   "dur": 16.21
+  },
+  {
+   "v": 25,
+   "file": "1-15-25.opus",
+   "hash": "c7178282639df83d",
+   "dur": 20.24
+  },
+  {
+   "v": 26,
+   "file": "1-15-26.opus",
+   "hash": "a9d39497e6b56954",
+   "to": 27,
+   "dur": 13.66
+  },
+  {
+   "v": 28,
+   "file": "1-15-28.opus",
+   "hash": "655e22f0333d6652",
+   "to": 29,
+   "dur": 37.55
+  },
+  {
+   "v": 30,
+   "file": "1-15-30.opus",
+   "hash": "d2bfc92c9840271e",
+   "dur": 9.58
+  },
+  {
+   "v": 31,
+   "file": "1-15-31.opus",
+   "hash": "b675b204fb9931f1",
+   "dur": 8.96
+  },
+  {
+   "v": 32,
+   "file": "1-15-32.opus",
+   "hash": "e866c1ba1f55aa09",
+   "dur": 9.45
+  },
+  {
+   "v": 33,
+   "file": "1-15-33.opus",
+   "hash": "ad702db35d7a19e8",
+   "dur": 31.74
+  },
+  {
+   "v": 34,
+   "file": "1-15-34.opus",
+   "hash": "74ee87be6387a71f",
+   "dur": 26.72
+  }
+ ]
+}
